@@ -5,5 +5,5 @@ url of the developed website: https://esp-firebase-demo-4d1c7.web.app/
 
 the webapp is secured with https protocol and username-password.
 
-to test you can use: username = "hajebram23@gmail.com", password: "espdemotest"
+to test you can use: username = "hajebram23@gmail.com", password = "espdemotest"
 
